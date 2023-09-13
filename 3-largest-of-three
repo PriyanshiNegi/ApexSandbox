@@ -11,7 +11,5 @@ public static Integer findLargest(Integer num1, Integer num2, Integer num3) {
         }
     }
 
-    else{
-        return num2;
-    }
+    return num2;
 }
